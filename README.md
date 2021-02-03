@@ -1,8 +1,8 @@
 # sportback
 backend of sport application
 
-##npm install 
+## npm install 
 for installing node modules
 
-##npm start
+## npm start
 for run backend server
